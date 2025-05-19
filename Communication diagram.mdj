@@ -9755,7 +9755,7 @@
 											"height": 13,
 											"alpha": 0.5743047407438198,
 											"distance": 60.74537019394976,
-											"text": "1.2 : *[for all member's rented bikes] getBikeDetails()"
+											"text": "1.2 : *[for member's all rented bikes] getBikeDetails()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -10503,7 +10503,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGW6kioErK7tOQ="
 							},
-							"name": "1.2 : *[for all member's rented bikes] getBikeDetails()",
+							"name": "1.2 : *[for member's all rented bikes] getBikeDetails()",
 							"source": {
 								"$ref": "AAAAAAGW6omxoDQ49uU="
 							},
